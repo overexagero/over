@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.0",
+  "Version": "2.0.0",
   "ReleaseNotes": "ATUALIZAÇÃO DISPONIVEL",
   "UrlUpdate": "https://overexagero.github.io/over/UrlUpdate",
   "Sms": "https://paste.anasor.com/paste.php?raw&id=9526",
@@ -7,7 +7,7 @@
   "UrlContato": "https://t.me/@cnxg_ssh",
   "UrlTermos": "https://site.grupo1.xyz/loja/termos.html",
   "CheckUser": "true",
-"UdpPort": "7300;7200",
+"UdpPort": "7300;7200;7400",
   "Servers": [
     {
       "Name": "CNXG 4GNET",
