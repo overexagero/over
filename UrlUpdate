@@ -7,7 +7,23 @@
   "UrlContato": "https://t.me/@cnxg_ssh",
   "UrlTermos": "https://site.grupo1.xyz/loja/termos.html",
   "CheckUser": "true",
-"UdpPort": "7300;7200",
+  "Udp": [
+    {
+      "Porta": "7300"
+    },
+    {
+      "Porta": "7400"
+    },
+    {
+      "Porta": "7500"
+    },
+    {
+      "Porta": "7600"
+    },
+    {
+      "Porta": "7700"
+    }
+  ],
   "Servers": [
     {
       "Name": "CNXG 4GNET",
