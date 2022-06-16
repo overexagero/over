@@ -1,5 +1,5 @@
 {
-  "Version": "3.0.0",
+  "Version": "4.0.0",
   "ReleaseNotes": "ATUALIZAÇÃO DISPONIVEL",
   "UrlUpdate": "https://overexagero.github.io/over/UrlUpdate",
   "Sms": "https://paste.anasor.com/paste.php?raw&id=9526",
@@ -37,7 +37,7 @@
       "PASS": ""
     },
     {
-      "Name": "CNXG 4M TESTE",
+      "Name": "CNXG 4M",
       "TYPE": "premium",
       "FLAG": "us.png",
       "ServerIP": "4m.overssh.xyz",
