@@ -37,7 +37,7 @@
       "PASS": ""
     },
     {
-      "Name": "CNXG 5GNETP",
+      "Name": "CNXG 5GNET",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "5g.overssh.xyz",
