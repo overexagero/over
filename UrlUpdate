@@ -37,10 +37,10 @@
       "PASS": ""
     },
     {
-      "Name": "CNXG 4M",
-      "TYPE": "4gtop",
-      "FLAG": "us.png",
-      "ServerIP": "4m.overssh.xyz",
+      "Name": "CNXG 5GNETP",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "5g.overssh.xyz",
       "CheckUser": "http://168.138.253.156:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
