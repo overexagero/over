@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.0",
+  "Version": "2.0.0",
   "ReleaseNotes": "ATUALIZAÇÃO DISPONIVEL",
   "UrlUpdate": "https://overexagero.github.io/over/UrlUpdate",
   "Sms": "https://paste.anasor.com/paste.php?raw&id=9526",
@@ -38,10 +38,10 @@
     },
     {
       "Name": "CNXG 4M",
-      "TYPE": "premium",
+      "TYPE": "4gtop",
       "FLAG": "us.png",
       "ServerIP": "4m.overssh.xyz",
-      "CheckUser": "http://check4m.overssh.xyz:5454/checkUser",
+      "CheckUser": "http://168.138.253.156:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
