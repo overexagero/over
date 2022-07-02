@@ -52,7 +52,7 @@
     {
       "Name": "🟣VIVO TESTE",
       "FLAG": "vivo",
-      "Payload": "GET wss://telefonica.com.br/ HTTP/1.1[crlf]Host:av.vgnet.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET wss://telefonica.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "telefonica.com.br",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
