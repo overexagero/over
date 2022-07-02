@@ -1,5 +1,5 @@
 {
-  "Version": "18.0.0",
+  "Version": "19.0.0",
   "ReleaseNotes": "ATUALIZAÇÃO DISPONIVEL",
   "UrlUpdate": "https://overexagero.github.io/over/UrlUpdate",
   "Sms": "https://paste.anasor.com/paste.php?raw&id=9526",
@@ -29,7 +29,7 @@
       "Name": "⚡ CNXG SPNET ⚡",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "br.overssh.xyz",
+      "ServerIP": "d3js84h3ios7bv.cloudfront.net",
       "CheckUser": "http://168.138.149.161:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
