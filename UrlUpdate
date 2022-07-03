@@ -1,5 +1,5 @@
 {
-  "Version": "22.0.0",
+  "Version": "23.0.0",
   "ReleaseNotes": "ATUALIZAÇÃO DISPONIVEL",
   "UrlUpdate": "https://overexagero.github.io/over/UrlUpdate",
   "Sms": "https://paste.anasor.com/paste.php?raw&id=9526",
@@ -132,9 +132,9 @@
      {
       "Name": "🟣VIVO TESTE 6",
       "FLAG": "vivo",
-      "Payload": "GET wss://web-cert3.vivo.com.br/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
-      "SNI": "web-cert3.vivo.com.br",
-      "TlsIP": "20.47.86.63",
+      "Payload": "GET wss://mvfront.vivo.com.br/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+      "SNI": "mvfront.vivo.com.br",
+      "TlsIP": "162.159.135.63",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
