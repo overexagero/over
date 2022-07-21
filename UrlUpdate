@@ -338,7 +338,7 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-   },INJECT TLSINJECT TLS
+   },
       {
       "Name": "INJECT TLS 12",
       "FLAG": "tim",
