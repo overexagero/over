@@ -289,6 +289,86 @@
    "ProxyPort": "443",
    "Info": "Tlsws"
   },
+  {
+      "Name": "TIM 1",
+      "FLAG": "tim",
+      "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "static.r4you.co",
+      "TlsIP": "static.r4you.co",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "TIM 2",
+      "FLAG": "tim",
+      "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "static.r4you.co",
+      "TlsIP": "104.26.5.175",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "TIM 3",
+      "FLAG": "tim",
+      "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "static.r4you.co",
+      "TlsIP": "104.26.4.175",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "TIM 4",
+      "FLAG": "tim",
+      "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "static.r4you.co",
+      "TlsIP": "172.67.70.43",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+     "Info": "Tlsws"
+     },
+     {
+    "Name": "TIM [01]",
+      "FLAG": "tim",
+      "Payload": "GET wss://cdnjs.cloudflare.com  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "cdnjs.cloudflare.com",
+      "TlsIP": "104.16.19.94",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+  {
+      "Name": "TIM [02]",
+      "FLAG": "tim",
+      "Payload": "GET wss://static.r4you.co HTTP/1.1[crlf]Host: [app_host] [crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf] CONNECT [host_port][protocol][crlf][crlf]",
+      "SNI": "static.r4you.co",
+      "TlsIP": "104.26.5.175",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+   {
+      "Name": "TIM [03]",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "[app_host]",
+      "TlsIP": "172.67.188.168",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+      },
+      {
+      "Name": "TIM [04]",
+      "FLAG": "tim",
+      "Payload": "GET ws://blog.alura.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "blog.alura.com.br",
+      "TlsIP": "172.67.188.168",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+      },
     {
       "Name": "🔴CLARO [01]",
       "FLAG": "claro",
