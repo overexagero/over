@@ -1,5 +1,5 @@
 {
-  "Version": "34.0.0",
+  "Version": "35.0.0",
   "ReleaseNotes": "ATUALIZAÇÃO DISPONIVEL",
   "UrlUpdate": "https://overexagero.github.io/over/UrlUpdate",
   "Sms": "https://paste.anasor.com/paste.php?raw&id=9526",
@@ -30,7 +30,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br.overssh.xyz",
-      "CheckUser": "http://168.138.149.161:5454/checkUser",
+      "CheckUser": "http://15.229.5.116:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
