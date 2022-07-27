@@ -288,6 +288,16 @@
             "ProxyPort": "443",
             "Info": "Tlsws"
         },
+           {  
+      "Name": "🌐TIM NOVO2🌐",  
+      "FLAG": "tim",  
+      "Payload": "GET wss://materiais.alura.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",  
+      "SNI": "materiais.alura.com.br",  
+      "TlsIP": "104.18.40.41",  
+      "ProxyIP": "",  
+      "ProxyPort": "",  
+      "Info": "Tlsws"  
+    },
    {
       "Name": "INJECT TLS 1",
       "FLAG": "claro",
