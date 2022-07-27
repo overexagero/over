@@ -1,5 +1,5 @@
 {
-  "Version": "37.0.0",
+  "Version": "38.0.0",
   "ReleaseNotes": "ATUALIZAÇÃO DISPONIVEL",
   "UrlUpdate": "https://overexagero.github.io/over/UrlUpdate",
   "Sms": "https://paste.anasor.com/paste.php?raw&id=9526",
@@ -259,17 +259,7 @@
       "Info": "Tlsws"  
     },
 {
-       "Name": "INJECT TLS 4",
-       "FLAG": "tim",
-       "Payload": "GET ws://www.alura.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-       "SNI": "www.alura.com.br",
-       "TlsIP": "111851.vip.cdn.cloudflare.net",
-       "ProxyIP": "",
-       "ProxyPort": "443",
-       "Info": "Tlsws"
-},
-{
-      "Name": "INJECT TLS 5",
+      "Name": "INJECT TLS 4",
        "FLAG": "tim",
        "Payload": "GET wss://www.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "www.alura.com.br",
@@ -279,7 +269,7 @@
        "Info": "Tlsws"
 },
 {
-      "Name": "INJECT TLS 6",
+      "Name": "INJECT TLS 5",
       "FLAG": "tim.png",
       "Payload": "GET wss://texugo.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "texugo.alura.com.br",
@@ -289,7 +279,7 @@
       "Info": "Tlsws"
 },
 {
-      "Name": "INJECT TLS 7",
+      "Name": "INJECT TLS 6",
       "FLAG": "tim.png",
       "Payload": "GET wss://empresas.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "empresas.alura.com.br",
@@ -299,41 +289,21 @@
       "Info": "Tlsws"
 },
 {
+      "Name": "INJECT TLS 7",
+      "FLAG": "tim.png",
+      "Payload": "GET wss://www.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "www.alura.com.br",
+      "TlsIP": "104.21.84.78",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+},
+{
       "Name": "INJECT TLS 8",
       "FLAG": "tim.png",
-      "Payload": "GET wss://www.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "www.alura.com.br",
-      "TlsIP": "104.21.84.78",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-},
-{
-      "Name": "INJECT TLS 9",
-      "FLAG": "tim.png",
       "Payload": "GET wss://blog.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "blog.alura.com.br",
       "TlsIP": "104.21.84.78",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-},
-{
-      "Name": "INJECT TLS 10",
-      "FLAG": "tim",
-      "Payload": "GET wss://blog.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "blog.alura.com.br",
-      "TlsIP": "blog.alura.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-},
-{
-      "Name": "INJECT TLS 11",
-      "FLAG": "tim",
-      "Payload": "GET wss://www.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "www.alura.com.br",
-      "TlsIP": "www.alura.com.br",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
