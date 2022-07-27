@@ -237,8 +237,8 @@
    "ProxyIP": "",
    "ProxyPort": "443",
    "Info": "Tlsws"
-  },
-      {
+    },
+    {
       "Name": "INJECT TLS 12",
       "FLAG": "tim",
       "Payload": "GET ws://blog.alura.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
@@ -247,8 +247,8 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-      },
-      {
+    },
+    {
       "Name": "TIM BR 1",
       "FLAG": "tim",
       "Payload": "GET wss://cdnjs.cloudflare.com  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
@@ -268,7 +268,7 @@
       "ProxyPort": "",
       "Info": "Tlsws"
     },
-{
+    {
       "Name": "🔵 TIM 7 NOVO",
       "FLAG": "tim",
       "Payload": "GET wss://www.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
@@ -278,7 +278,7 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
-    {
+   {
       "Name": "🔵TIM CONTA",
       "FLAG": "tim",
       "Payload": "GET wss://www.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
@@ -288,7 +288,7 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
-    {
+   {
       "Name": "INJECT TLS 1",
       "FLAG": "claro",
       "Payload": "GET wss://ct.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
