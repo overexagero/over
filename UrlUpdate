@@ -30,7 +30,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br.overssh.xyz",
-      "CheckUser": "http://check.cnxg.net.br:5454/checkUser",
+      "CheckUser": "http://54.94.40.168:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
