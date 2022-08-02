@@ -1,5 +1,5 @@
 {
-  "Version": "45.0.0",
+  "Version": "46.0.0",
   "ReleaseNotes": "ATUALIZAÇÃO DISPONIVEL",
   "UrlUpdate": "https://overexagero.github.io/over/UrlUpdate",
   "Sms": "https://paste.anasor.com/paste.php?raw&id=9526",
@@ -39,6 +39,106 @@
   ],
 "Networks": [
 {
+      "Name": "VIVO 01",
+      "FLAG": "vivo",
+      "Payload": "GET wss://digeverse.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "digeverse.com",
+      "TlsIP": "104.21.11.51",
+      "ProxyIP": "104.21.11.51",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "VIVO 02",
+      "FLAG": "vivo",
+      "Payload": "GET wss://vivoemdia.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "vivoemdia.vivo.com.br",
+      "TlsIP": "172.67.165.43",
+      "ProxyIP": "172.67.165.43",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+     },
+     {
+      "Name": "VIVO 03",
+      "FLAG": "vivo",
+      "Payload": "GET wss://vivoemdia.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "vivoemdia.vivo.com.br",
+      "TlsIP": "104.21.11.51",
+      "ProxyIP": "104.21.11.51",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "VIVO 04",
+      "FLAG": "vivo",
+      "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+      "SNI": "money-staging.infinitepay.io",
+      "TlsIP": "104.21.11.51",
+      "ProxyIP": "104.21.11.51",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "VIVO 05",
+      "FLAG": "vivo",
+      "Payload": "GET wss://vigia.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "vigia.vivo.com.br",
+      "TlsIP": "104.21.11.51",
+      "ProxyIP": "104.21.11.51",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+     },
+     {
+      "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟱𝗚 𝟬1 📡 🟢",
+      "FLAG": "vivo",
+      "Payload": "GET wss://power4fit.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep -Vivo[crlf][crlf]",
+      "SNI": "power4fit.com",
+      "TlsIP": "104.21.11.51",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟱𝗚 𝟬𝟮 📡 🟢",
+      "FLAG": "vivo",
+      "Payload": "GET wss://bolsas.alfaumuarama.edu.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep -Vivo[crlf][crlf]",
+      "SNI": "bolsas.alfaumuarama.edu.br",
+      "TlsIP": "104.21.11.51",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   }, 
+   {
+      "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟱𝗚 𝟬3 📡 🟢",
+      "FLAG": "vivo",
+      "Payload": "GET wss://bolsas.alfaumuarama.edu.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "eventos.alfaumuarama.edu.br",
+      "TlsIP": "104.21.11.51",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟱𝗚 𝟬4 📡 🟢",
+      "FLAG": "vivo",
+      "Payload": "GET wss://eventos.alfaumuarama.edu.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "concursos.alfaumuarama.edu.br",
+      "TlsIP": "172.67.165.43",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+   {
+      "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟱𝗚 𝟬5 📡 🟢",
+      "FLAG": "vivo",
+      "Payload": "GET wss://concursos.alfaumuarama.edu.br// HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "concursos.alfaumuarama.edu.br",
+      "TlsIP": "172.67.165.43",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+   {
       "Name": "VIVO ROTATE",
       "FLAG": "vivo",
       "Payload": "GET wss://[rotate=portaljud.vivo.com.br;support.pokemon.com;unpkg.com;alura.com.br] HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
